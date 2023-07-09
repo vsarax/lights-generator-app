@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    margin-right: 30px;
+}
+
+.wrapper nav {
+    margin-left: 12px;
+}
+
+.wrapper nav svg{
+    margin-left: 6px;
+}

@@ -3,3 +3,16 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+.content {
+  margin: 70px 0 0 70px;
+}
+
+.nav {
+  display: flex;
+}
+
+.counter {
+  margin-left: 73px;
+  display: flex;
+}
